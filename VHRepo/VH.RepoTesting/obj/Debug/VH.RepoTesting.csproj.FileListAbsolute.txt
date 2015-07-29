@@ -1,0 +1,16 @@
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\bin\Debug\VH.RepoTesting.exe.config
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\bin\Debug\VH.RepoTesting.exe
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\bin\Debug\VH.RepoTesting.pdb
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\bin\Debug\Autofac.dll
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\bin\Debug\EntityFramework.dll
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\bin\Debug\Moq.dll
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\bin\Debug\Autofac.xml
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\bin\Debug\EntityFramework.xml
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\bin\Debug\Moq.xml
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\obj\Debug\VH.RepoTesting.exe
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\obj\Debug\VH.RepoTesting.pdb
+C:\Users\vmadmin\Source\Repos\refFramework\VHRepo\VH.RepoTesting\bin\Debug\VH.RepoTesting.exe.config
+C:\Users\vmadmin\Source\Repos\refFramework\VHRepo\VH.RepoTesting\obj\Debug\VH.RepoTesting.exe
+C:\Users\vmadmin\Source\Repos\refFramework\VHRepo\VH.RepoTesting\obj\Debug\VH.RepoTesting.pdb

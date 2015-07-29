@@ -1,0 +1,13 @@
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\bin\Debug\ReposWithUnitOfWorkSol.exe.config
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\bin\Debug\ReposWithUnitOfWorkSol.exe
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\bin\Debug\ReposWithUnitOfWorkSol.pdb
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\bin\Debug\Autofac.dll
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\bin\Debug\EntityFramework.dll
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\bin\Debug\Moq.dll
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\bin\Debug\Autofac.xml
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\bin\Debug\EntityFramework.xml
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\bin\Debug\Moq.xml
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\obj\Debug\ReposWithUnitOfWorkSol.exe
+C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSol\obj\Debug\ReposWithUnitOfWorkSol.pdb
