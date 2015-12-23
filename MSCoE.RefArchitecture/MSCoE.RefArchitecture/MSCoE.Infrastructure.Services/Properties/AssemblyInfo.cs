@@ -1,16 +1,17 @@
 ﻿using System.Reflection;
+using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("VH.RepoTesting")]
+[assembly: AssemblyTitle("MSCoE.Services")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("TCS")]
-[assembly: AssemblyProduct("VH.RepoTesting")]
-[assembly: AssemblyCopyright("Copyright ©  TCS 2015")]
-[assembly: AssemblyTrademark("TCS")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("MSCoE.Services")]
+[assembly: AssemblyCopyright("Copyright ©  2015")]
+[assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
@@ -19,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c0a72f40-9c3e-4c6b-8d29-defffbb90b65")]
+[assembly: Guid("e1d87f8e-f8ed-4fe1-80da-8c2bffc74dad")]
 
 // Version information for an assembly consists of the following four values:
 //
