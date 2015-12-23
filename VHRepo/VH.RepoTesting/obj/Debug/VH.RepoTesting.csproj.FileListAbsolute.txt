@@ -17,3 +17,17 @@ C:\Users\vmadmin\Source\Repos\refFramework\VHRepo\VH.RepoTesting\obj\Debug\VH.Re
 C:\Users\sreekanthspillai\Documents\GitHub\refFramework\VHRepo\VH.RepoTesting\bin\Debug\VH.RepoTesting.exe.config
 C:\Users\sreekanthspillai\Documents\GitHub\refFramework\VHRepo\VH.RepoTesting\obj\Debug\VH.RepoTesting.exe
 C:\Users\sreekanthspillai\Documents\GitHub\refFramework\VHRepo\VH.RepoTesting\obj\Debug\VH.RepoTesting.pdb
+C:\Users\250199\Source\Repos\refFramework2\VHRepo\VH.RepoTesting\bin\Debug\VH.RepoTesting.exe.config
+C:\Users\250199\Source\Repos\refFramework2\VHRepo\VH.RepoTesting\obj\Debug\VH.RepoTesting.exe
+C:\Users\250199\Source\Repos\refFramework2\VHRepo\VH.RepoTesting\obj\Debug\VH.RepoTesting.pdb
+C:\Users\250199\Source\Repos\refFramework2\VHRepo\VH.RepoTesting\bin\Debug\VH.RepoTesting.exe
+C:\Users\250199\Source\Repos\refFramework2\VHRepo\VH.RepoTesting\bin\Debug\VH.RepoTesting.pdb
+C:\Users\250199\Source\Repos\refFramework2\VHRepo\VH.RepoTesting\bin\Debug\Autofac.dll
+C:\Users\250199\Source\Repos\refFramework2\VHRepo\VH.RepoTesting\bin\Debug\EntityFramework.dll
+C:\Users\250199\Source\Repos\refFramework2\VHRepo\VH.RepoTesting\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\250199\Source\Repos\refFramework2\VHRepo\VH.RepoTesting\bin\Debug\Moq.dll
+C:\Users\250199\Source\Repos\refFramework2\VHRepo\VH.RepoTesting\bin\Debug\Autofac.xml
+C:\Users\250199\Source\Repos\refFramework2\VHRepo\VH.RepoTesting\bin\Debug\EntityFramework.xml
+C:\Users\250199\Source\Repos\refFramework2\VHRepo\VH.RepoTesting\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\250199\Source\Repos\refFramework2\VHRepo\VH.RepoTesting\bin\Debug\Moq.xml
+C:\Users\250199\Source\Repos\refFramework2\VHRepo\VH.RepoTesting\obj\Debug\VH.RepoTesting.csprojResolveAssemblyReference.cache
