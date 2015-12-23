@@ -1,0 +1,5 @@
+C:\Users\sreekanthspillai\Documents\GitHub\refFramework\MSCoE.RefArchitecture\MSCoE.RefArchitecture\MSCoE.Data\bin\Debug\MSCoE.Data.dll
+C:\Users\sreekanthspillai\Documents\GitHub\refFramework\MSCoE.RefArchitecture\MSCoE.RefArchitecture\MSCoE.Data\bin\Debug\MSCoE.Data.pdb
+C:\Users\sreekanthspillai\Documents\GitHub\refFramework\MSCoE.RefArchitecture\MSCoE.RefArchitecture\MSCoE.Data\obj\Debug\MSCoE.Data.csprojResolveAssemblyReference.cache
+C:\Users\sreekanthspillai\Documents\GitHub\refFramework\MSCoE.RefArchitecture\MSCoE.RefArchitecture\MSCoE.Data\obj\Debug\MSCoE.Data.dll
+C:\Users\sreekanthspillai\Documents\GitHub\refFramework\MSCoE.RefArchitecture\MSCoE.RefArchitecture\MSCoE.Data\obj\Debug\MSCoE.Data.pdb

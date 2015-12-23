@@ -14,3 +14,6 @@ C:\Users\vmadmin\Downloads\Projects\ReposWithUnitOfWorkSol\ReposWithUnitOfWorkSo
 C:\Users\vmadmin\Source\Repos\refFramework\VHRepo\VH.RepoTesting\bin\Debug\VH.RepoTesting.exe.config
 C:\Users\vmadmin\Source\Repos\refFramework\VHRepo\VH.RepoTesting\obj\Debug\VH.RepoTesting.exe
 C:\Users\vmadmin\Source\Repos\refFramework\VHRepo\VH.RepoTesting\obj\Debug\VH.RepoTesting.pdb
+C:\Users\sreekanthspillai\Documents\GitHub\refFramework\VHRepo\VH.RepoTesting\bin\Debug\VH.RepoTesting.exe.config
+C:\Users\sreekanthspillai\Documents\GitHub\refFramework\VHRepo\VH.RepoTesting\obj\Debug\VH.RepoTesting.exe
+C:\Users\sreekanthspillai\Documents\GitHub\refFramework\VHRepo\VH.RepoTesting\obj\Debug\VH.RepoTesting.pdb
