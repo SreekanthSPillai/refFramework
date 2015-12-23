@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace VH.RepoTesting.Model
+namespace MSCoE.Core.Tests.Model
 {
     public class User : BaseModel<int>
     {

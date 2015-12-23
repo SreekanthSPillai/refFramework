@@ -1,7 +1,7 @@
 ﻿using System.Data.Entity;
-using VH.RepoTesting.Model;
+using MSCoE.Core.Tests.Model;
 
-namespace VH.RepoTesting.Data
+namespace MSCoE.Core.Tests.Data
 {
     public class DBInitializer : CreateDatabaseIfNotExists<EFContext>
     {

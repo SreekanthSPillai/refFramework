@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using VH.RepoTesting.Interfaces;
+using MSCoE.Core.Tests.Interfaces;
 
-namespace VH.RepoTesting
+namespace MSCoE.Core.Tests
 {
     public class ConsoleReadWrite : IConsole
     {

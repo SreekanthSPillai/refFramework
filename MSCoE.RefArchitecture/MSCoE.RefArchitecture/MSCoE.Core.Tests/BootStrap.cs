@@ -1,8 +1,8 @@
 ﻿using Autofac;
-using VH.RepoTesting.Data;
-using VH.RepoTesting.Interfaces;
+using MSCoE.Core.Tests.Data;
+using MSCoE.Core.Tests.Interfaces;
 
-namespace VH.RepoTesting
+namespace MSCoE.Core.Tests
 {
     public class BootStrap
     {

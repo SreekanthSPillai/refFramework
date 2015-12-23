@@ -1,9 +1,9 @@
 ﻿using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration.Conventions;
-using VH.RepoTesting.Interfaces;
-using VH.RepoTesting.Model;
+using MSCoE.Core.Tests.Interfaces;
+using MSCoE.Core.Tests.Model;
 
-namespace VH.RepoTesting.Data
+namespace MSCoE.Core.Tests.Data
 {
     public class EFContext : DbContext, IDbContext
     {

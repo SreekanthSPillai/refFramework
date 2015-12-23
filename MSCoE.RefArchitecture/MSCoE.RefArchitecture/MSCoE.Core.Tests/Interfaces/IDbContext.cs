@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Data.Entity;
-namespace VH.RepoTesting.Interfaces
+namespace MSCoE.Core.Tests.Interfaces
 {
     public interface IDbContext : IDisposable
     {

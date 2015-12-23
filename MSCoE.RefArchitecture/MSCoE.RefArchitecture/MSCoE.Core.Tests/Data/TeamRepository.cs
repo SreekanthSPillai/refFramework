@@ -1,10 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
-using VH.RepoTesting.Interfaces;
-using VH.RepoTesting.Model;
+using MSCoE.Core.Tests.Interfaces;
+using MSCoE.Core.Tests.Model;
 
-namespace VH.RepoTesting.Data
+namespace MSCoE.Core.Tests.Data
 {
     public class TeamRepository : SqlRepository, ITeamRepository
     {

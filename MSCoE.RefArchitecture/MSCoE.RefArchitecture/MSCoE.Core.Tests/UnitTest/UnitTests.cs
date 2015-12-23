@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 using Autofac;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
-using VH.RepoTesting.Interfaces;
-using VH.RepoTesting.Model;
+using MSCoE.Core.Tests.Interfaces;
+using MSCoE.Core.Tests.Model;
 
-namespace VH.RepoTesting.UnitTest
+namespace MSCoE.Core.Tests.UnitTest
 {
     [TestClass]
     public class UnitTests

@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace VH.RepoTesting.Model
+namespace MSCoE.Core.Tests.Model
 {
     public abstract class BaseModel<T>
     {

@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace VH.RepoTesting.Model
+namespace MSCoE.Core.Tests.Model
 {
     public class Role : BaseModel<int>
     {

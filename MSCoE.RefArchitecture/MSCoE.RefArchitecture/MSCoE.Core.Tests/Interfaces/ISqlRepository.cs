@@ -1,5 +1,5 @@
 ﻿using System;
-namespace VH.RepoTesting.Interfaces
+namespace MSCoE.Core.Tests.Interfaces
 {
     public interface IRepository : IDisposable
     {

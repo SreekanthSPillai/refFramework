@@ -1,8 +1,8 @@
 ﻿using System;
-namespace VH.RepoTesting.Interfaces
+namespace MSCoE.Core.Tests.Interfaces
 {
     public interface ITeamRepository : IRepository
     {
-        System.Collections.Generic.List<VH.RepoTesting.Model.User> GetUsersInTeam(int teamId);
+        System.Collections.Generic.List<MSCoE.Core.Tests.Model.User> GetUsersInTeam(int teamId);
     }
 }

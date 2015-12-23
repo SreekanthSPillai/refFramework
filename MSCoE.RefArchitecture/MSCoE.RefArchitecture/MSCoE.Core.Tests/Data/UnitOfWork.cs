@@ -4,9 +4,9 @@ using System.Data.Common;
 using System.Data.Entity;
 using System.Data.Entity.Infrastructure;
 using System.Transactions;
-using VH.RepoTesting.Interfaces;
+using MSCoE.Core.Tests.Interfaces;
 
-namespace VH.RepoTesting.Data
+namespace MSCoE.Core.Tests.Data
 {
     public class UnitOfWork : IUnitOfWork
     {

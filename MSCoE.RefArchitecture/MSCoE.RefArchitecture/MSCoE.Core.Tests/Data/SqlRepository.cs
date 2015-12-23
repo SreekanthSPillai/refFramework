@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Data.Entity;
 using System.Linq;
-using VH.RepoTesting.Interfaces;
+using MSCoE.Core.Tests.Interfaces;
 
-namespace VH.RepoTesting.Data
+namespace MSCoE.Core.Tests.Data
 {
     public class SqlRepository : IRepository
     {

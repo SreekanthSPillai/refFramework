@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("VH.RepoTesting")]
+[assembly: AssemblyTitle("MSCoE.Core.Tests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("TCS")]
-[assembly: AssemblyProduct("VH.RepoTesting")]
+[assembly: AssemblyProduct("MSCoE.Core.Tests")]
 [assembly: AssemblyCopyright("Copyright ©  TCS 2015")]
 [assembly: AssemblyTrademark("TCS")]
 [assembly: AssemblyCulture("")]
