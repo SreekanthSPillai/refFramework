@@ -10,6 +10,7 @@ namespace MSCoE.WebUI.Controllers
     {
         public ActionResult Index()
         {
+            IEnumerable<Product> products = Product.getAllProducts();
             return View();
         }
 
