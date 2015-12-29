@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MSCoE.WebUI.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -10,8 +11,8 @@ namespace MSCoE.WebUI.Controllers
     {
         public ActionResult Index()
         {
-            IEnumerable<Product> products = Product.getAllProducts();
-            return View();
+            IEnumerable<ProductViewModel> products = ProductAPI.getTopProducts();
+            return View(products);
         }
 
         public ActionResult About()
